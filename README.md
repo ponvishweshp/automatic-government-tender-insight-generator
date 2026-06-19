@@ -266,13 +266,13 @@ The application automatically generates:
 
 ### Executive Summary
 
-![Executive Summary](executive_summary.jpg)
+![Executive Summary](executive_summary.jpeg)
 
 ---
 
 ### ABC Analysis
 
-![ABC Analysis](abc_analysis.jpg)
+![ABC Analysis](abc_analysis.jpeg)
 
 ---
 
