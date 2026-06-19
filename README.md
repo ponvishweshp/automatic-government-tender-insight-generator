@@ -201,17 +201,10 @@ Tender-Insight-Generator/
 
 │── README.md
 
+│── abc_analysis.jpg
 
-│── screenshots/
+│── executive_summary.jpg
 
-│     executive_summary.png
-
-│     abc_analysis.png
-
-
-│── docs/
-
-│     methodology.md
 ```
 
 ---
@@ -273,13 +266,13 @@ The application automatically generates:
 
 ### Executive Summary
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](executive_summary.jpg)
 
 ---
 
 ### ABC Analysis
 
-![ABC Analysis](screenshots/abc_analysis.png)
+![ABC Analysis](abc_analysis.jpg)
 
 ---
 
@@ -292,6 +285,7 @@ Planned improvements include:
 * PDF export of procurement reports
 * Supplier concentration metrics
 * Tender keyword intelligence
+* Automatic mailing system of finished reports 
 
 ---
 
